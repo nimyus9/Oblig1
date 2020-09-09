@@ -1,4 +1,7 @@
 package no.oslomet.cs.algdat.Oblig1;
+/*
+* Niman Ahmed Yusuf S239921
+*/
 
 //////////////////// Oblig 1 ////////////////////////
 
